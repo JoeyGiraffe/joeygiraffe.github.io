@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Joey Giraffe | 头大的鸭</title>
+    <link>https://joeygiraffe.github.io/post/</link>
+    <description>Recent content in Posts on Joey Giraffe | 头大的鸭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://joeygiraffe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Could not find method api() for arguments</title>
+      <link>https://joeygiraffe.github.io/2019/03/gradle-api-method-not-found/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeygiraffe.github.io/2019/03/gradle-api-method-not-found/</guid>
+      <description>&lt;p&gt;注意：&lt;code&gt;Java Plugin&lt;/code&gt;不包含 &lt;code&gt;api()&lt;/code&gt;方法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo &#43; Github Pages &#43; Wercker搭建博客</title>
+      <link>https://joeygiraffe.github.io/2017/10/hugo-blog-setup-tutorial/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeygiraffe.github.io/2017/10/hugo-blog-setup-tutorial/</guid>
+      <description>&lt;p&gt;使用&lt;code&gt;Hugo&lt;/code&gt;生成静态博客托管于&lt;code&gt;GitHub Pages&lt;/code&gt;之上，并利用&lt;code&gt;Wercker&lt;/code&gt;实现自动部署。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>一只孤独的船</title>
+      <link>https://joeygiraffe.github.io/2017/09/my-first-post/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeygiraffe.github.io/2017/09/my-first-post/</guid>
+      <description>一只船孤独地航行在海上，
+它既不寻求幸福，
+也不逃避幸福，
+它只是向前航行。
+底下是沉静碧蓝的大海，
+而头顶是金色的太阳。
+将要直面的，
+与已成过往的，
+较之深埋于它内心的，
+皆为微沫。</description>
+    </item>
+    
+  </channel>
+</rss>

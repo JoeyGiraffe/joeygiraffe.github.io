@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Joey Giraffe | 头大的鸭</title>
+    <link>https://joeygiraffe.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Joey Giraffe | 头大的鸭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://joeygiraffe.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo &#43; Github Pages &#43; Wercker搭建博客</title>
+      <link>https://joeygiraffe.github.io/2017/10/hugo-blog-setup-tutorial/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://joeygiraffe.github.io/2017/10/hugo-blog-setup-tutorial/</guid>
+      <description>&lt;p&gt;使用&lt;code&gt;Hugo&lt;/code&gt;生成静态博客托管于&lt;code&gt;GitHub Pages&lt;/code&gt;之上，并利用&lt;code&gt;Wercker&lt;/code&gt;实现自动部署。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
